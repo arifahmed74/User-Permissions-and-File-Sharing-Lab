@@ -51,15 +51,49 @@ This lab demonstrates how to configure and test NTFS and shared folder permissio
 ---
 
 ## 📸 Screenshots
+- ✅ [User creation in Computer Management]
 
-> Include your screenshots in a `/screenshots` folder in the repo and link them below.
+<img width="987" alt="creating new users action in computer management" src="https://github.com/user-attachments/assets/b937681b-2d87-4bd2-a9dd-a00f54987347" />
 
-- ✅ [User creation in Computer Management](screenshots/user_creation.png)
-- ✅ [NTFS permissions for folder](screenshots/ntfs_permissions.png)
-- ✅ [Share settings](screenshots/share_settings.png)
-- ✅ [File creation by TestUser1](screenshots/testuser1_create.png)
-- ✅ [TestUser2 denied edit/delete](screenshots/testuser2_denied.png)
-- ✅ [Access Denied error](screenshots/access_denied.png)
+<img width="985" alt="creating test2 user" src="https://github.com/user-attachments/assets/217c3fb6-0f6b-44e6-8482-4b75fe2b82d8" />
+
+<img width="978" alt="creating shared folder wizard" src="https://github.com/user-attachments/assets/8c3cf329-d12d-4159-b1b4-2058c2237961" />
+
+<img width="986" alt="sucessful shared wizard" src="https://github.com/user-attachments/assets/90bb54be-cdca-44cb-9721-eabb66917af9" />
+
+<img width="990" alt="adding users in shared folder" src="https://github.com/user-attachments/assets/6f47b8c8-90c6-4edd-8979-9252e7d8f7cc" />
+
+<img width="985" alt="sharedfolder location" src="https://github.com/user-attachments/assets/8328680a-cfc1-47d7-8d49-b6573299c6ab" />
+
+<img width="986" alt="shared folder pathway" src="https://github.com/user-attachments/assets/08292c03-52ef-440e-9475-18a4c792ab38" />
+
+- ✅ [NTFS permissions for folder]
+  
+<img width="986" alt="test1 customization perm" src="https://github.com/user-attachments/assets/2b876004-5ce7-446c-9f0f-f88aeb146fcc" />
+
+<img width="982" alt="Test2 custom perm" src="https://github.com/user-attachments/assets/4059ff1b-c667-4a84-adb6-dd6b0db09dc7" />
+
+<img width="993" alt="customizing permissions for users" src="https://github.com/user-attachments/assets/3aa0264d-c571-4c4e-92b8-5d5b18c0f330" />
+
+- ✅ [Share settings]
+
+<img width="980" alt="sharedfolder properties test2" src="https://github.com/user-attachments/assets/ab04e19d-33c8-486a-9fd9-be076845aafe" />
+
+<img width="988" alt="sharedfolder properties full control test1" src="https://github.com/user-attachments/assets/3ac099c7-e179-4707-825b-66e07dff7143" />
+
+
+- ✅ [File creation by TestUser1]
+
+<img width="979" alt="file creation" src="https://github.com/user-attachments/assets/a5597607-acc1-440d-98e2-734dbb031ed7" />
+
+<img width="1000" alt="file1 txt" src="https://github.com/user-attachments/assets/73795cf0-a2e7-44e0-8842-d68091d2ebea" />
+
+<img width="981" alt="file created and viewing" src="https://github.com/user-attachments/assets/c423cd71-3eda-4fd1-bbc7-ac344f67944a" />
+
+
+- ✅ [TestUser2 denied edit/delete]
+
+<img width="977" alt="denied access" src="https://github.com/user-attachments/assets/c2da9ebf-3594-47ea-b010-e0ec986f29cc" />
 
 ---
 
